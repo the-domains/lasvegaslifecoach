@@ -1,25 +1,28 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: Make More Money with these Three Simple Steps
-datePublished: '2016-04-10T22:19:58.163Z'
-dateModified: '2016-04-10T22:19:57.734Z'
-title: ''
-author: []
-authors: []
+author:
+  - name: Forbes Coaches Council
+    url: null
+    avatar: {}
+related: []
 publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+  url: 'http://www.forbes.com'
+  name: Forbes
+  favicon: 'http://i.forbesimg.com/favicon.ico'
+  domain: www.forbes.com
+keywords: []
+description: "It's not necessarily about working harder - it's about working smarter."
+app_links: []
+isBasedOnUrl: 'http://www.forbes.com/sites/forbescoachescouncil/2016/02/12/make-more-money-with-these-three-simple-steps/#2e80813a62ab'
+title: Make More Money With These Three Simple Steps
+datePublished: '2016-04-10T22:22:53.403Z'
+dateModified: '2016-04-10T22:21:18.419Z'
 sourcePath: _posts/2016-04-10-make-more-money-with-these-three-simple-steps.md
 published: true
-url: make-more-money-with-these-three-simple-steps/index.html
-_type: Article
+inFeed: true
+hasPage: false
+inNav: false
+_context: 'http://schema.org'
+_type: MediaObject
 
 ---
-Make More Money with these Three Simple Steps
+<article style=""><h1>Make More Money With These Three Simple Steps</h1><p>It's not necessarily about working harder - it's about working smarter.</p><img src="http://i.forbesimg.com/media/assets/forbes_1200x1200.jpg" /></article>
